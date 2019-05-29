@@ -1,0 +1,6 @@
+owner=349542369227440129
+prefix=2
+game=Break | Alaska
+stayinchannel=true
+songinstatus=false
+token=NTgzMzk3OTU5Mjg3NDM5Mzcw.XO7xvQ.gHTN7vhyk-LG_IGT8Lp7C-fy7AE
